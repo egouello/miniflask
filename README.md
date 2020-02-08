@@ -27,7 +27,8 @@ Le serveur flask est alors à l'écoute du port 5000 et il suffit alors de se co
 
 Si le raspberry a comme adresse IP 111.222.333.444, alors il faut taper dans le navigateur : 111.222.333.444:5000
 
-Vous trouverez plain d'informations utiles sur flask sur :
+Vous trouverez plein d'informations utiles sur flask sur :
+
 [La page officielle de flask](https://www.palletsprojects.com/p/flask/)
 
 [Ce tutoriel en français](http://sdz.tdct.org/sdz/creez-vos-applications-web-avec-flask.html)
