@@ -1,5 +1,5 @@
-# miniflask
-Une petite app avec flask et des données json
+# Miniflask
+Une petite app avec flask et des données json qu'on peut ajouter ou supprimer
 
 # Qu'est ce que Flask
 ![Logo de flask](http://sdz.tdct.org/sdz/medias/uploads.siteduzero.com_files_390001_391000_390565.png "le logo de flask")
